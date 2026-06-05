@@ -83,7 +83,7 @@ Email Notification
 
 ## Demo Video
 
-Add your Loom video link here.
+[Add your Loom video link here.](https://www.loom.com/share/26db632707634d0587295825ed4204de)
 
 ## Author
 
